@@ -1,0 +1,14 @@
+astroid==2.6.2
+certifi==2021.5.30
+charset-normalizer==2.0.4
+colorama==0.4.4
+idna==3.2
+isort==5.9.1
+lazy-object-proxy==1.6.0
+mccabe==0.6.1
+pylint==2.9.3
+requests==2.26.0
+toml==0.10.2
+urllib3==1.26.6
+wincertstore==0.2
+wrapt==1.12.1
